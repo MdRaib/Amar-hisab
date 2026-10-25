@@ -1,7 +1,7 @@
 /* আমার হিসাব — local-first PWA. Google Drive backup uses the Google OAuth token flow and a visible app-owned folder. */
 (() => {
 "use strict";
-const CLIENT_ID = "822363790054-s0n5f46cfj134jgpcog4114jo9qf8fb9.apps.googleusercontent.com";
+const CLIENT_ID = "1049937202729-io7gbv078br6uuat5jp19qn24p8qhqp2.apps.googleusercontent.com";
 const DRIVE_SCOPE = "https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/drive.file";
 const DRIVE_FOLDER_NAME = "আমার হিসাব";
 const DRIVE_FILE_NAME = "amar-hishab-backup.json";
